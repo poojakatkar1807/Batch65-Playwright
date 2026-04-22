@@ -1,4 +1,39 @@
-let a = 10;
+/*variable type 
+
+global - global scope 
+var - function scope
+let - block scope 
+const - cannot change/ block scope */
+
+
+
+  {
+     let a = 5
+    {
+      console.log(a) //5
+    }
+  }
+  
+  {
+    console.log(a) // error
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*let a = 10;
 var b = 20;
 
 {
@@ -18,4 +53,4 @@ console.log("2:", a, b);
   console.log("4:", d);
 }
 
-console.log("5:", d);
+console.log("5:", d);*/
