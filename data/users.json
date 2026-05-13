@@ -1,19 +1,19 @@
 [
 
    {
-    "username":"test1",
-    "password":"pass1"
+    "username":"standard_user",
+    "password":"secret_sauce"
    },
    {
-    "username":"test2",
-    "password":"pass2"
+    "username":"locked_out_user",
+    "password":"secret_sauce"
    },
    {
-    "username":"test3",
-    "password":"pass3"
+    "username":"visual_user",
+    "password":"secret_sauce"
    },
    {
-    "username":"test4",
-    "password":"pass4"
+    "username":"problem_user",
+    "password":"secret_sauce"
    }
 ]
