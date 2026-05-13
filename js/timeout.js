@@ -9,6 +9,12 @@ function printMyNameCreater(name) {
 }
 
 let pooja = printMyNameCreater("Pooja")
+let payal = printMyNameCreater("Payal")
+
 
 
 setTimeout(pooja, 5000)
+
+//setInterval(payal,1000)
+
+//JS async language , single threaded 
